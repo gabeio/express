@@ -1,0 +1,9 @@
+{
+  "engines": {
+    "node": ">= 0.10.0"
+  },
+  "dependencies": {
+    "compression": "~1.4.0",
+    "express": "~3.18.1"
+  }
+}
